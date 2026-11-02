@@ -1,0 +1,44 @@
+[
+  {
+    "id": "P1793602690097",
+    "name": "Ghar Soap",
+    "category": "Soap",
+    "size": "",
+    "color": "",
+    "packQty": 3,
+    "unitName": "Pieces",
+    "price": 450,
+    "unitPrice": 160,
+    "images": [
+      "assets/products/P1793602690097-0.webp"
+    ]
+  },
+  {
+    "id": "P1793613452736",
+    "name": "Cotton lace",
+    "category": "Laces",
+    "size": "",
+    "color": "",
+    "packQty": 18,
+    "unitName": "Metre",
+    "price": 500,
+    "unitPrice": 30,
+    "images": [
+      "assets/products/P1793613452736-0.webp"
+    ]
+  },
+  {
+    "id": "P1793613463553",
+    "name": "Cotton lace",
+    "category": "Laces",
+    "size": "",
+    "color": "",
+    "packQty": 18,
+    "unitName": "Metre",
+    "price": 500,
+    "unitPrice": 30,
+    "images": [
+      "assets/products/P1793613463553-0.webp"
+    ]
+  }
+]
